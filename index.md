@@ -10,3 +10,24 @@ I was ~~19~~ 20 when I wrote my first line of code, that is because I was initia
 
 My first line of code was in Java and it was `system.out.println("hello world");`
 A video that I feel best represents me is found [here](https://tinyurl.com/yux39ajn).
+
+Some programming languages I have experience with are:
+- Java
+- C++
+- C
+- Javascript
+- Python
+
+I'd probably rate them from my favorite to least favorite:
+1. C++
+2. Python
+3. Javascript
+4. Java
+5. C
+
+Some tasks I would like to complete are:
+- [x] Enroll in CSE110
+- [ ] learn more about software engineering
+- [ ] get practical experience
+- [ ] profit?
+
