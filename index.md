@@ -3,11 +3,15 @@
 ### Hopefully you will learn some things about me here!
 
 ## Table of Some Contents
-[About Me]()
+[About Me](#about-me)
+
 [Languages I Know](#programming-languages-that-i-know)
-[Rating Languages]()
-[Tasks]()
-[Future Me?]()
+
+[Rating Languages](#rating-programming-languages)
+
+[Tasks](#tasks)
+
+[Future Me?](#future-me)
 
 Here is a picture of a cat that I think looks cute :^)
 
@@ -45,7 +49,7 @@ I'd probably rate them from my favorite to least favorite:
 
 ### Tasks
 Some tasks I would like to complete are:
-- [x] Enroll in CSE110
+- [x] Enroll in CSE 110 with Powell
 - [ ] learn more about software engineering
 - [ ] get practical experience
 - [ ] profit?
