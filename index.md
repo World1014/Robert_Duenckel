@@ -6,4 +6,4 @@ I am a third year **Math-CS** major. I have already had *one internship* and I w
 I was ~~19~~ 20 when I wrote my first line of code, that is because I was initially a history major before I switched into 
 **Math-CS**. 
 My first line of code was in Java and it was `system.out.println("hello world");`
-A video that I feel best represents me is found here: [(tinyurl.com/yux39ajn)]
+A video that I feel best represents me is found [here](tinyurl.com/yux39ajn).
