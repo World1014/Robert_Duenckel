@@ -2,13 +2,18 @@
 ## Welcome to my Github page
 ### Hopefully you will learn some things about me here!
 
+## Table of Some Contents
+[About Me]()
+[Languages I Know](#programming-languages-that-i-know)
+[Rating Languages]()
+[Tasks]()
+[Future Me?]()
+
 Here is a picture of a cat that I think looks cute :^)
 
 ![cat](cat.jpg)
 
-## Table of Some Contents
-[Languages](#programming-languages-that-i-know)
-
+### About Me
 I am a third year **Math-CS** major. I have already had *one internship* and I will be having another one this summer.
 I was ~~19~~ 20 when I wrote my first line of code, that is because I was initially a history major before I switched into 
 **Math-CS**. One pun I like is: 
@@ -30,6 +35,7 @@ Some programming languages I have experience with are:
 
 [secret_cat](/secret_cat.jpeg)
 
+### Rating Programming Languages
 I'd probably rate them from my favorite to least favorite:
 1. C++
 2. Python
@@ -37,6 +43,7 @@ I'd probably rate them from my favorite to least favorite:
 4. Java
 5. C
 
+### Tasks
 Some tasks I would like to complete are:
 - [x] Enroll in CSE110
 - [ ] learn more about software engineering
@@ -44,7 +51,7 @@ Some tasks I would like to complete are:
 - [ ] profit?
 
 
-
+### Future Me?
 Me after getting a job in industry:
 
 ![money_Cat](money_Cat.jpg)
