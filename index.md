@@ -24,6 +24,8 @@ Some programming languages I have experience with are:
 - Javascript
 - Python
 
+[secret_cat](/secret_cat.jpeg)
+
 I'd probably rate them from my favorite to least favorite:
 1. C++
 2. Python
@@ -38,4 +40,5 @@ Some tasks I would like to complete are:
 - [ ] profit?
 
 Me after getting a job in industry:
+
 ![money_Cat](money_Cat.jpg)
